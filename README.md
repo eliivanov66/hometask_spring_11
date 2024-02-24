@@ -17,4 +17,4 @@
 5. Eureka server - docker http://localhost:8190
 6. Prometheus server - docker http://localhost:8200
 7. Grafana server - docker http://localhost:8201
-   login/password: admin/admin"# hometask_spring_11" 
+   login/password: admin/admin
